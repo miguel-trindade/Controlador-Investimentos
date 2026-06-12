@@ -18,7 +18,7 @@ O objetivo é fornecer uma ferramenta simples e prática para apoiar o planejame
 
 ## 🛠️ Tecnologias Utilizadas
 
-- Python 3
+- Python 
 
 ## 📂 Estrutura do Projeto
 
